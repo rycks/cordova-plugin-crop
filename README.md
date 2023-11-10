@@ -1,11 +1,12 @@
 # Important
 
-## This project is deprecated. No new changes nor bugfixes will be added.
+## That repository is maintained as i use it in my cordova app !
 
+Forked from https://github.com/jeduan/cordova-plugin-crop
 
-# cordova-plugin-crop
+(last update november 2023)
 
-
+# cordova-plugin-crop (update)
 
 > Crop an image in a Cordova app
 
@@ -107,7 +108,6 @@ export class CameraService {
   
 }  
 ```
-
 
 
 ### Libraries used
